@@ -306,4 +306,4 @@ import 'element-ui/lib/theme-default/index.css';    // 默认主题
 
 ### 浅绿色皮肤 ###
 
-![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms2.png)
+![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms2.png)# vue
